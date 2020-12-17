@@ -3,6 +3,8 @@
 
 Ce projet a pour but que chaque écurie puisse effectuer une réservation sur le site afin d'effectuer une pesée de leurs véhicules de compétition avant la course, et de pouvoir ensuite voir les mesures des pesées sous forme de tableau ou de graphique et aussi avoir la possibilité de télécharger les données des pesées au format CSV.
 
+La base de données SQL se trouve dans le dossier BDD.
+
 # Mots de passe des comptes des écuries (SHA-256 en BDD):
 renault.a -> Renault.admin666
 
