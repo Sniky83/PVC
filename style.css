@@ -1,0 +1,156 @@
+body{
+	position: relative;
+	/*background-color: #e6e6e6;*/
+	background-color: #d9d9d9;
+}
+
+#logo{
+  width: 200px;
+  height: 150px;
+  float: left;
+  position: relative;
+  background-image: url("images/logo.jpg");
+	/*-webkit-filter: contrast(180%);filter: contrast(180%);*/
+	border: 3px solid black;
+}
+
+#parent{
+	width: 1209px;
+	margin: 0px auto;
+}
+
+#banniere{
+  width: 1000px;
+  height: 150px;
+  float: left;
+  position: relative;
+  background-image: url("images/banniere.jpg");
+	border-top: 3px solid black;
+	border-bottom: 3px solid black;
+	border-right: 3px solid black;
+}
+
+#menu{
+  width: 200px;
+  background-color: white;
+  float: left;
+  position: relative;
+border-left: 3px solid black;
+	border-bottom: 3px solid black;
+	/*box-shadow: 10px 10px 20px grey;*/
+}
+
+#contenu{
+	width: 1000px;
+	background-color: white;
+	float: left;
+	position: relative;
+	border-right: 3px solid black;
+	border-left: 3px solid black;
+	border-bottom: 3px solid black;
+}
+
+#reservation{
+  position: relative;
+  right: 30px;
+  width: 190px;
+}
+
+.align-left{
+	text-align: left;
+}
+
+.align-right{
+	text-align: right;
+}
+
+.align-center{
+	text-align: center;
+}
+
+.mg-bt{
+	margin-bottom: 10px;
+}
+
+.mg-top{
+	margin-top: 10px;
+}
+
+.mg-right-10{
+	margin-right: 35px;
+}
+
+.corps{
+	width: 300px;
+	/*border: 1px solid black;*/
+}
+
+label.blue{
+	color: blue;
+}
+
+label.lbl{
+	margin-top: 10px;
+	display: inline-block;
+}
+
+#btn{
+	width: 80px;
+	display: block;
+	margin: 10px auto;
+}
+
+.formelement{
+	width: 140px;
+	margin: 10px auto;
+}
+
+IMG.displayed {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+}
+
+.decaler-droite{
+	position: relative;
+	float: right;
+}
+
+.btn{
+	width: auto;
+}
+
+h1 {
+    text-align: center;
+	text-decoration: underline;
+}
+
+.red{
+	color: red;
+}
+
+.green{
+	color: green;
+}
+
+table{
+    border-collapse: collapse;
+	position: relative;
+	width: 40%;
+	left: 30%;
+}
+
+td, th{
+    border: 1px solid black;
+}
+
+.head{
+	font-weight: bold;
+}
+
+#graph {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  width: 50%;
+}
